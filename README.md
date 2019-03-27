@@ -8,4 +8,5 @@ originalmente inventado para modelar fenômenos astrof´ısicos. Desde então, e
 # Referências 
 [1]R. Gingold and J. Monaghan. Smoothed particle hydrodynamics - theory and application to non-spherical stars. Monthly
 Notices of Royal Astronomical Society, 181:375–389, 1977.
+
 [2]L. Lucy. A numerical approach to the testing of the fission hypothesis. Astronomical Journal, 82:1013–1024, 1977.
