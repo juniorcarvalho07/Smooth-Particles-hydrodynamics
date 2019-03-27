@@ -1,7 +1,7 @@
 # Smooth-Particles-hydrodynamics
 Implementations of the masters using the method Smooth Particles hydrodynamics
 
-Os métodos sem malha come¸caram com Smoothed Particle Hydrodynamics (SPH) proposto por Gingold e Monaghan [1] e Lucy [2],
+Os métodos sem malha começaram com Smoothed Particle Hydrodynamics (SPH) proposto por Gingold e Monaghan [1] e Lucy [2],
 originalmente inventado para modelar fenômenos astrof´ısicos. Desde então, e principalmente a partir de sua aplicação em simulação de fraturas, esse método induziu várias áreas de pesquisas no que hoje se chama genericamente de métodos sem malha em equações diferenciais parciais.
 
 
