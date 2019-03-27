@@ -5,6 +5,7 @@ Os métodos sem malha começaram com Smoothed Particle Hydrodynamics (SPH) propo
 originalmente inventado para modelar fenômenos astrof´ısicos. Desde então, e principalmente a partir de sua aplicação em simulação de fraturas, esse método induziu várias áreas de pesquisas no que hoje se chama genericamente de métodos sem malha em equações diferenciais parciais.
 
 Simulação blood Vessels Elastic 
+
 link: https://www.youtube.com/watch?v=Z_TfSbgjTxQ
 
 link: https://www.youtube.com/watch?v=KPb7Z4ALg7A
